@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "name": "hello_world2",
+  "func_name": "lambdas/hello_world2/index.handler",
+  "resource_type": "lambda",
+  "iam_role_name": "hello_world2-role",
+  "runtime": "nodejs20.x",
+  "memory": 128,
+  "timeout": 100,
+  "lambda_path": "lambdas\\hello_world2",
+  "dependencies": [],
+  "event_sources": [],
+  "env_variables": {},
+  "publish_version": false,
+  "url_config": {},
+  "ephemeral_storage": 512
+}
